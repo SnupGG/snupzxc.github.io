@@ -1,8 +1,8 @@
 :root {
     --name: snupgg;
-    --text-color: #fff;
-    --back-color: #fff3;
-    --over-color: #fefefe;
+    --text-color: #FFFFFF;
+    --back-color: #000000;
+    --over-color: #FFFFFF;
     --popup-text-color: #000000;
     --border: none;
 }
