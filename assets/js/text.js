@@ -20,7 +20,7 @@
 });
 $(function() {
   $(".typed").typed({
-      strings: ['snupgg', "царь", "Наркоман какой-то"],
+      strings: ['snupgg', "царь", "наркоман какой-то"],
       typeSpeed: 100,
       loop: true,
       cursorChar: "|",
