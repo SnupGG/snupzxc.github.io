@@ -1,1 +1,1 @@
-#cogito ergo sum
+#A sudyi kto?
