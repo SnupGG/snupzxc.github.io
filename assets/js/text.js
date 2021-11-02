@@ -23,6 +23,6 @@ $(function() {
       strings: ['snupzxc', "ноунейм", "дед инсайд"],
       typeSpeed: 100,
       loop: true,
-      cursorChar: "|",
+      cursorChar: "☄️",
   });
 });
