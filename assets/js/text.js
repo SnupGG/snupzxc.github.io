@@ -20,9 +20,9 @@
 });
 $(function() {
   $(".typed").typed({
-      strings: ['snupzxc', "ноунейм", "дед инсайд"],
+      strings: ['snupzxc竜', "ноунейм", "наркоман"],
       typeSpeed: 100,
       loop: true,
-      cursorChar: "☄️",
+      cursorChar: "|",
   });
 });
