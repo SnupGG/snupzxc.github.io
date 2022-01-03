@@ -52,7 +52,7 @@ body {
     display: flex;
     background: none;
     padding: 35px;
-    color: var(--text-color);
+    color: wheat;
     border-radius: 16px; 
     -webkit-border-radius: 16px;
     -moz-border-radius: 16px;
