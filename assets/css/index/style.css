@@ -1,6 +1,6 @@
 /* index.html main page styles */
 element {
-  --main-bg-color: wheat;
+  --main-bg-color: red;
 }
 
 body {
@@ -48,6 +48,7 @@ body {
 .center {
     justify-content: center;
     align-items: center;
+    color: var(--main-bg-color)
     flex-direction: column;
 }
 .info {
