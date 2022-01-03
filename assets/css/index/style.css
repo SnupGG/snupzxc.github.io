@@ -37,7 +37,7 @@ body {
 }
 
 .typed-cursor{
-   opacity: 0;
+   opacity: 1;
 	display: none;
 }
 
