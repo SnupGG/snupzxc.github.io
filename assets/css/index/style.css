@@ -18,9 +18,9 @@ body {
 .typed::after {
 	content: '✨';
 	display: inline;
-	-webkit-animation: blink 0.7s infinite;
-	-moz-animation: blink 0.7s infinite;
-	animation: blink 0.7s infinite;
+	-webkit-animation: blink 0.0s infinite;
+	-moz-animation: blink 0.0s infinite;
+	animation: blink 0.0s infinite;
 }
 
 @keyframes blink{
