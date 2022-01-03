@@ -12,15 +12,12 @@ body {
 
 .typed {
     color: var(--text-color);
-    opacity: 0.8;
+    opacity: 1;
 }
 
 .typed::after {
 	content: '✨';
 	display: inline;
-	-webkit-animation: blink 0.0s infinite;
-	-moz-animation: blink 0.0s infinite;
-	animation: blink 0.0s infinite;
 }
 
 @keyframes blink{
