@@ -3,7 +3,7 @@ body {
     width: 100%;
     min-height: 100%;
     margin: 0;
-    background: var(--back-jpg) center;
+    background: var(--back-gif) center;
     background-size: cover;
     display: flex;
     font-family: 'Open Sans';
