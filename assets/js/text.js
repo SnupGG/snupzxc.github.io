@@ -20,7 +20,7 @@
 });
 $(function() {
   $(".typed").typed({
-      strings: ['snupzxc竜', "ноунейм", "наркоман"],
+      strings: ['snupblssd竜', "ноунейм", "наркоман"],
       typeSpeed: 100,
       loop: true,
       cursorChar: "✨",
