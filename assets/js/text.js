@@ -20,7 +20,7 @@
 });
 $(function() {
   $(".typed").typed({
-      strings: ['snupblssd竜'],
+      strings: ['johan eden', 'blessed'],
       typeSpeed: 100,
       loop: true,
       cursorChar: "✨",
