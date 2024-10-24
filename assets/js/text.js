@@ -20,7 +20,7 @@
 });
 $(function() {
   $(".typed").typed({
-      strings: ['johan eden', 'blessed'],
+      strings: ['johan kafka', 'blessed'],
       typeSpeed: 100,
       loop: true,
       cursorChar: "✨",
